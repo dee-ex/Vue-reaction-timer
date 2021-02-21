@@ -1,5 +1,5 @@
 # Vue Reaction Timer
-[![vuejsversion](https://img.shields.io/badge/VueJS-v2.x-green)](https://vuejs.org/)
+[![vuejsversion](https://img.shields.io/badge/VueJS-v3.x-green)](https://vuejs.org/)
 [![nodejsversion](https://img.shields.io/badge/Node.js-v14.15.1-black)](https://nodejs.org/)
 [![npmversion](https://img.shields.io/badge/npm-v6.14.8-red)](https://www.npmjs.com/)
 
